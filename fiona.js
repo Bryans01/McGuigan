@@ -6,7 +6,6 @@ myData = [
 [51.5073509,-0.1277583, 'London, UK'],
 [48.856614,2.3522219, 'Paris, France'],
 [52.5200066,13.404954, 'Berlin, Germany'],
-[52.5200066,13.404954, 'Berlin, Germany'],
 [-25.7478676,28.2292712, 'Pretoria, South Africa'],
 [-28.7807276,32.0382856, 'Richards Bay, South Africa'],
 [-33.3106292,26.5255946, 'Grahamstown, South Africa'],
